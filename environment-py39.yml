@@ -11,6 +11,8 @@ dependencies:
     - matplotlib
     - pandas
     - tensorflow
+    - tensorflow-lattice 
+    - pydot
     - seaborn
     - ipykernel
     - jupyterlab
@@ -18,5 +20,4 @@ dependencies:
     - tqdm
     - optuna
     - pyaml
-    - keras-tcn [no-dependencies]
     - click
