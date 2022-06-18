@@ -1,0 +1,7 @@
+name: 
+
+conda_env: environment-py39.yml
+
+entry_points:
+  load_raw_data:
+    command: "python ./scripts/create_raw_data.py"

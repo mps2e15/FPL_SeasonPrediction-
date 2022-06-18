@@ -5,6 +5,7 @@ dependencies:
   - python=3.9
   - pip
   - pip:
+    - mlflow
     - numpy
     - scikit-learn
     - matplotlib
@@ -18,3 +19,4 @@ dependencies:
     - optuna
     - pyaml
     - keras-tcn [no-dependencies]
+    - click

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/matth/OneDrive/Documents/FPL_Prediction/FPL_SeasonPrediction/mlruns/0/583c491ccf3849a0ac4b5bde44c409ae/artifacts
+end_time: 1653138137009
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+name: ''
+run_id: 583c491ccf3849a0ac4b5bde44c409ae
+run_uuid: 583c491ccf3849a0ac4b5bde44c409ae
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1653138136961
+status: 3
+tags: []
+user_id: matth
